@@ -1,0 +1,28 @@
+body {
+  padding-top: 70px;
+  color: #dfd8c8;
+  background-color: #a39274;
+}
+
+#mynav{
+  background-color: #252523;
+
+}
+
+.myboxclass{
+  background-color: #252523;
+  margin-top: 20px;
+  margin-bottom: 70px;
+}
+
+.nav-link{
+  color: #dfd8c8;
+}
+
+/*
+Golden wheat: #a39274
+
+Soft Wheat: #dfd8c8
+
+Deep gray: #252523
+*/
